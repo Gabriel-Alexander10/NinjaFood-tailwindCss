@@ -1,3 +1,3 @@
 # Ninja Food
 
-<img src="./public/landing-page.png"/>
+<img src="./public/images/landing-page.png"/>
